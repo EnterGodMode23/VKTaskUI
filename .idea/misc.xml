@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Saveliy/AndroidStudioProjects/VKTaskUI/app/src/main/res/drawable/hand.xml" value="0.228" />
+        <entry key="..\:/Users/Saveliy/AndroidStudioProjects/VKTaskUI/app/src/main/res/drawable/mic_off.xml" value="0.243" />
+        <entry key="..\:/Users/Saveliy/AndroidStudioProjects/VKTaskUI/app/src/main/res/drawable/separator.xml" value="0.2415" />
+        <entry key="..\:/Users/Saveliy/AndroidStudioProjects/VKTaskUI/app/src/main/res/drawable/videocam.xml" value="0.243" />
+        <entry key="..\:/Users/Saveliy/AndroidStudioProjects/VKTaskUI/app/src/main/res/drawable/videocam_off.xml" value="0.2595" />
+        <entry key="..\:/Users/Saveliy/AndroidStudioProjects/VKTaskUI/app/src/main/res/layout/activity_main.xml" value="0.4" />
         <entry key="..\:/VKTaskUI/app/src/main/res/drawable/circle_background_grey.xml" value="0.217" />
         <entry key="..\:/VKTaskUI/app/src/main/res/drawable/circle_background_white.xml" value="0.1155" />
         <entry key="..\:/VKTaskUI/app/src/main/res/drawable/gradient_1.xml" value="0.332" />
